@@ -1,0 +1,11 @@
+torch
+transformers
+faiss-gpu
+tqdm
+numpy
+nltk
+sentence-transformers
+pandas
+psutil
+scipy 
+scikit-learn
